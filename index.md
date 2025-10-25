@@ -28,3 +28,8 @@ Next, we feed the PPT slide deck into Pictory AI and turn it into a [presentatio
 Click on the play button below to play the video.
 
 [<img width="600" height="420" alt="Image" src="https://github.com/user-attachments/assets/3151205e-988e-42ce-bb6d-0bd7b559fdea" />](https://video.pictory.ai/v2/preview/20251025052709770411af6c48fe24a6da8bf21284bfcab30)
+
+<a href="https://video.pictory.ai/embed/20251025052709770411af6c48fe24a6da8bf21284bfcab30/20251025073739649QtIFFMDxDRBaaKd" target="_blank" rel="noopener">
+  <img src="/assets/pictory-poster.jpg" alt="Watch the video" style="max-width:100%; height:auto;">
+</a>
+
