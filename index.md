@@ -27,6 +27,6 @@ PPT, URLs etc., into professional-looking videos.
 Next, we feed the PPT slide deck into Pictory AI and turn it into a [presentation video with AI voiceover](https://youtu.be/awaL1CuURJk).  
 Click on the play button below to play the video.
 
-[<img width="600" height="420" alt="Image" src="https://github.com/user-attachments/assets/3151205e-988e-42ce-bb6d-0bd7b559fdea" />](https://video.pictory.ai/v2/preview/20251025052709770411af6c48fe24a6da8bf21284bfcab30)
+[<img width="600" height="420" alt="Image" src="https://github.com/user-attachments/assets/3151205e-988e-42ce-bb6d-0bd7b559fdea" />](https://youtu.be/awaL1CuURJk)
 
 
